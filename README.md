@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Alif Apriansyah!
 
-### 💻 Passionate Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
+### 💻 Informatics Engineering Student | 🚀 Coding, Exploring, Building | 📚 Lifelong Learner
 
 [![GitHub followers](https://img.shields.io/github/followers/Lieff246?style=social)](https://github.com/Lieff246)
 [![GitHub stars](https://img.shields.io/github/stars/Lieff246?style=social)](https://github.com/Lieff246)
@@ -19,8 +19,8 @@
 const alif = {
   location: "Palu, Indonesia 🇮🇩",
   education: "Universitas Tadulako - Teknik Informatika",
-  currentFocus: "Web Developer",
-  learning: ["New Technologies", "Best Practices", "System Design"],
+  currentFocus: ["Web Development", "System Design", "Backend Engineering"]
+  learning: ["New Technologies", "Best Practices", "Data Structures & Algorithms"],
   hobbies: [
     "Coding",
     "Problem Solving",
@@ -58,8 +58,6 @@ const alif = {
 
 </div>
 
-## 🎮 GitHub Snake Game
-
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/Lieff246/Lieff246/output/github-contribution-grid-snake-dark.svg)
@@ -75,15 +73,7 @@ const alif = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lieff246&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lieff246&theme=radical&hide_border=true&background=0D1117" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lieff246&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -94,24 +84,17 @@ const alif = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Lieff246&theme=radical&no-frame=true&no-bg=true&row=2&column=6)
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lieff246&theme=radical" width="100%" />
 
 </div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alifapriansyah02)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifapriansyahasgar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
 
 </div>
