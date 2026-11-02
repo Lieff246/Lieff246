@@ -1,11 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm Alif Apriansyah!
+# Hi, I'm Alif Apriansyah!
 
-### 💻 Informatics Engineering Student | 🚀 Coding, Exploring, Building | 📚 Lifelong Learner
+### Informatics Engineering Student | Coding, Exploring, Building | Lifelong Learner
 
-[![GitHub followers](https://img.shields.io/github/followers/Lieff246?style=social)](https://github.com/Lieff246)
-[![GitHub stars](https://img.shields.io/github/stars/Lieff246?style=social)](https://github.com/Lieff246)
+### Portofolio saya: 
+
+`https://apriansyah-alif.vercel.app/`
 
 </div>
 
